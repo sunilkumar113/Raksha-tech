@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-title">DASHBOARD</div>
+        <div class="user-icon"><i class="fa fa-user"></i></div>
+    </header>
+    <div class="container">
+        <div class="card">
+            <h2>PATCH COMPLIANCE</h2>
+            <canvas id="patchComplianceChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>ACTION STATUS</h2>
+            <canvas id="actionStatusChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>REGIONAL COMPLIANCE</h2>
+            <canvas id="regionalComplianceChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>OUTLET LEVEL COMPLIANCE</h2>
+            <canvas id="outletLevelComplianceChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>RELAY HEALTH</h2>
+            <canvas id="relayHealthChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>PENDING PATCH</h2>
+            <canvas id="pendingPatchChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>CONTENT WISE</h2>
+            <canvas id="contentWiseChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>SEVERITY BASED</h2>
+            <canvas id="severityBasedChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>OVERALL COMPLIANCE</h2>
+            <canvas id="overallComplianceChart"></canvas>
+        </div>
+        <div class="card">
+            <h2>COMPLIANCE LEVEL</h2>
+            <canvas id="complianceLevelChart"></canvas>
+        </div>
+    </div>
+    <script src="dashboard.js"></script>
+</body>
+</html>

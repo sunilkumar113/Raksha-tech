@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detailed Page</title>
+    <link rel="stylesheet" href="detail.css">
+</head>
+<body>
+    <header>
+        <div class="header-title">Detailed View</div>
+    </header>
+    <div class="chart-container">
+        <canvas id="dataChart"></canvas>
+    </div>
+    
+    
+    <div class="container">
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>Computer</th>
+                    <th>OS Version</th>
+                    <th>Deployment Status</th>
+                    <th>Detailed Status</th>
+                    <th>Error Code</th>
+                    <th>Manufacturer</th>
+                    <th>Model</th>
+                    <th>Expected Install</th>
+                    <th>Last Scan</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be dynamically inserted here -->
+            </tbody>
+        </table>
+    </div>
+    <script src="detail.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,222 @@
+[
+    {
+        "computer": "Computer1",
+        "osVersion": "Windows 10",
+        "deploymentStatus": "Completed",
+        "detailedStatus": "No Issues",
+        "errorCode": "N/A",
+        "manufacturer": "Dell",
+        "model": "XPS 15",
+        "expectedInstall": "2024-07-30",
+        "lastScan": "2024-07-24"
+    },
+    {
+        "computer": "Computer2",
+        "osVersion": "macOS 13",
+        "deploymentStatus": "In Progress",
+        "detailedStatus": "Update Required",
+        "errorCode": "N/A",
+        "manufacturer": "Apple",
+        "model": "MacBook Pro",
+        "expectedInstall": "2024-08-05",
+        "lastScan": "2024-07-20"
+    },
+    {
+        "computer": "Computer3",
+        "osVersion": "Windows 11",
+        "deploymentStatus": "Completed",
+        "detailedStatus": "No Issues",
+        "errorCode": "N/A",
+        "manufacturer": "HP",
+        "model": "Spectre x360",
+        "expectedInstall": "2024-07-25",
+        "lastScan": "2024-07-22"
+    },
+    {
+        "computer": "Computer4",
+        "osVersion": "Ubuntu 22.04",
+        "deploymentStatus": "In Progress",
+        "detailedStatus": "Configuration Needed",
+        "errorCode": "N/A",
+        "manufacturer": "Lenovo",
+        "model": "ThinkPad X1",
+        "expectedInstall": "2024-08-10",
+        "lastScan": "2024-07-21"
+    },
+    {
+        "computer": "Computer5",
+        "osVersion": "Windows 10",
+        "deploymentStatus": "Pending",
+        "detailedStatus": "Awaiting Parts",
+        "errorCode": "N/A",
+        "manufacturer": "Acer",
+        "model": "Aspire 5",
+        "expectedInstall": "2024-08-15",
+        "lastScan": "2024-07-23"
+    },
+    {
+        "computer": "Computer6",
+        "osVersion": "macOS 12",
+        "deploymentStatus": "Completed",
+        "detailedStatus": "No Issues",
+        "errorCode": "N/A",
+        "manufacturer": "Apple",
+        "model": "iMac",
+        "expectedInstall": "2024-07-28",
+        "lastScan": "2024-07-25"
+    },
+    {
+        "computer": "Computer7",
+        "osVersion": "Windows 11",
+        "deploymentStatus": "In Progress",
+        "detailedStatus": "Software Update Needed",
+        "errorCode": "N/A",
+        "manufacturer": "Dell",
+        "model": "Inspiron 14",
+        "expectedInstall": "2024-08-02",
+        "lastScan": "2024-07-26"
+    },
+    {
+        "computer": "Computer8",
+        "osVersion": "Ubuntu 20.04",
+        "deploymentStatus": "Completed",
+        "detailedStatus": "No Issues",
+        "errorCode": "N/A",
+        "manufacturer": "HP",
+        "model": "Envy",
+        "expectedInstall": "2024-07-30",
+        "lastScan": "2024-07-27"
+    },
+    {
+        "computer": "Computer9",
+        "osVersion": "Windows 10",
+        "deploymentStatus": "In Progress",
+        "detailedStatus": "Driver Issues",
+        "errorCode": "N/A",
+        "manufacturer": "Asus",
+        "model": "ZenBook",
+        "expectedInstall": "2024-08-08",
+        "lastScan": "2024-07-24"
+    },
+    {
+        "computer": "Computer10",
+        "osVersion": "macOS 13",
+        "deploymentStatus": "Pending",
+        "detailedStatus": "Software Installation",
+        "errorCode": "N/A",
+        "manufacturer": "Apple",
+        "model": "MacBook Air",
+        "expectedInstall": "2024-08-12",
+        "lastScan": "2024-07-29"
+    },
+    {
+        "computer": "Computer11",
+        "osVersion": "Windows 11",
+        "deploymentStatus": "Completed",
+        "detailedStatus": "No Issues",
+        "errorCode": "N/A",
+        "manufacturer": "Lenovo",
+        "model": "Yoga 7i",
+        "expectedInstall": "2024-07-30",
+        "lastScan": "2024-07-26"
+    },
+    {
+        "computer": "Computer12",
+        "osVersion": "Ubuntu 22.04",
+        "deploymentStatus": "In Progress",
+        "detailedStatus": "Waiting for Update",
+        "errorCode": "N/A",
+        "manufacturer": "Dell",
+        "model": "XPS 13",
+        "expectedInstall": "2024-08-05",
+        "lastScan": "2024-07-27"
+    },
+    {
+        "computer": "Computer13",
+        "osVersion": "Windows 10",
+        "deploymentStatus": "Pending",
+        "detailedStatus": "Awaiting Approval",
+        "errorCode": "N/A",
+        "manufacturer": "Acer",
+        "model": "Predator Helios",
+        "expectedInstall": "2024-08-10",
+        "lastScan": "2024-07-23"
+    },
+    {
+        "computer": "Computer14",
+        "osVersion": "macOS 12",
+        "deploymentStatus": "Completed",
+        "detailedStatus": "No Issues",
+        "errorCode": "N/A",
+        "manufacturer": "Apple",
+        "model": "Mac Mini",
+        "expectedInstall": "2024-07-29",
+        "lastScan": "2024-07-25"
+    },
+    {
+        "computer": "Computer15",
+        "osVersion": "Windows 11",
+        "deploymentStatus": "In Progress",
+        "detailedStatus": "Software Configuration",
+        "errorCode": "N/A",
+        "manufacturer": "HP",
+        "model": "Pavilion",
+        "expectedInstall": "2024-08-03",
+        "lastScan": "2024-07-26"
+    },
+    {
+        "computer": "Computer16",
+        "osVersion": "Ubuntu 20.04",
+        "deploymentStatus": "Completed",
+        "detailedStatus": "No Issues",
+        "errorCode": "N/A",
+        "manufacturer": "Lenovo",
+        "model": "IdeaPad",
+        "expectedInstall": "2024-07-31",
+        "lastScan": "2024-07-24"
+    },
+    {
+        "computer": "Computer17",
+        "osVersion": "Windows 10",
+        "deploymentStatus": "In Progress",
+        "detailedStatus": "Awaiting Parts",
+        "errorCode": "N/A",
+        "manufacturer": "Asus",
+        "model": "VivoBook",
+        "expectedInstall": "2024-08-07",
+        "lastScan": "2024-07-28"
+    },
+    {
+        "computer": "Computer18",
+        "osVersion": "macOS 13",
+        "deploymentStatus": "Pending",
+        "detailedStatus": "Waiting for Accessories",
+        "errorCode": "N/A",
+        "manufacturer": "Apple",
+        "model": "MacBook Pro",
+        "expectedInstall": "2024-08-15",
+        "lastScan": "2024-07-29"
+    },
+    {
+        "computer": "Computer19",
+        "osVersion": "Windows 11",
+        "deploymentStatus": "Completed",
+        "detailedStatus": "No Issues",
+        "errorCode": "N/A",
+        "manufacturer": "HP",
+        "model": "Omen",
+        "expectedInstall": "2024-07-30",
+        "lastScan": "2024-07-25"
+    },
+    {
+        "computer": "Computer20",
+        "osVersion": "Ubuntu 22.04",
+        "deploymentStatus": "In Progress",
+        "detailedStatus": "Pending Setup",
+        "errorCode": "N/A",
+        "manufacturer": "Dell",
+        "model": "Latitude",
+        "expectedInstall": "2024-08-09",
+        "lastScan": "2024-07-26"
+    }
+]
